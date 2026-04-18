@@ -19,7 +19,7 @@
 
 I build end-to-end systems at the intersection of **software engineering**, **financial technology**, and **artificial intelligence**. My work spans production-grade full-stack platforms, deep learning pipelines for biometric authentication, and agentic AI architectures powered by LLMs.
 
-Currently in my final year specializing in **Financial Informatics & Engineering**, I focus on turning complex problems into working, deployable solutions — not just prototypes.
+Currently in my final year specializing in **Financial Informatics & Engineering**, I focus on turning complex problems into working, deployable solutions.
 
 ---
 
